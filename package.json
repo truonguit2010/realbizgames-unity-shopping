@@ -1,0 +1,22 @@
+{
+  "name": "com.realbizgames.shopping",
+  "displayName": "RealbizGames Shopping",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "unityRelease": "17f1",
+  "description": "RealbizGames Shopping",
+  "category": "Library",
+  "type": "Runtime",
+  "license": "MIT",
+  "author": {
+    "name": "Truong Pham",
+    "email": "truonguit2010@gmail.com",
+    "url": "https://realbizgames.com"
+  },
+  "keywords": [
+    "Realbiz Games",
+    "RealbizGames Shopping",
+    "Library"
+  ],
+  "hideInEditor": false
+}

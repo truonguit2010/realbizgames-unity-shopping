@@ -1,0 +1,23 @@
+{
+    "name": "RealBizGames.Shopping.Runtime",
+    "references": [
+        "RealBizGames.Data.Runtime",
+        "RealBizGames.ChainPattern.Runtime",
+        "RealBizGames.RulePattern.Runtime",
+        "RealBizGames.StoreRating.Runtime",
+        "UnityEngine.Purchasing",
+        "UnityEngine.Purchasing.Security",
+        "UnityEngine.Purchasing.SecurityCore",
+        "UnityEngine.Purchasing.Stores",
+        "UnityEngine.Purchasing.SecurityStub"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
