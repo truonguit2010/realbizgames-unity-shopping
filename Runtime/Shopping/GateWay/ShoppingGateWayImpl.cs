@@ -23,7 +23,7 @@ namespace RealbizGames.Shopping
         private IRuleEngine<ShoppingItemResponseDTO, ShoppingItemDTO> buyRuleEngine;
 
         public ShoppingGateWayImpl() {
-
+            InitRuleEngine();
         }
 
         private void InitRuleEngine() {
@@ -58,7 +58,7 @@ namespace RealbizGames.Shopping
 
         public void NotifyMyOwnItemsBy(ShoppingItemProvider provider, ShoppingItemType type, string actionIdentifer)
         {
-            throw new System.NotImplementedException();
+            unityShoppingProvider.NotifyMyOwnItemsBy(type, actionIdentifer);
         }
     }
 }
