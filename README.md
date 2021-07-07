@@ -18,6 +18,7 @@ Google Public Key on the Analytics Settings page.
 >Please help, thanks.
 
 For now, please go to Window > Unity IAP > IAP Obfuscator and press the generate button.
+https://flobuk.com/forum/topic/1998/appletangle-does-not-exist
 
 # Reference:
 1. https://learn.unity.com/tutorial/unity-iap#5c7f8528edbc2a002053b46e
